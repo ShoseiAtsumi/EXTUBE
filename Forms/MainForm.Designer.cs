@@ -42,7 +42,7 @@ namespace EXTUBE.Forms
             // 
             this.notifyIcon.ContextMenuStrip = this.metroContextMenu;
             this.notifyIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon.Icon")));
-            this.notifyIcon.Text = "GB BOT HUB";
+            this.notifyIcon.Text = "EXTUBE";
             this.notifyIcon.Visible = true;
             // 
             // metroContextMenu
@@ -51,21 +51,21 @@ namespace EXTUBE.Forms
             this.OpenToolStripMenuItem,
             this.終了ToolStripMenuItem});
             this.metroContextMenu.Name = "metroContextMenu";
-            this.metroContextMenu.Size = new System.Drawing.Size(181, 70);
+            this.metroContextMenu.Size = new System.Drawing.Size(99, 48);
             // 
             // OpenToolStripMenuItem
             // 
             this.OpenToolStripMenuItem.Name = "OpenToolStripMenuItem";
-            this.OpenToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.OpenToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.OpenToolStripMenuItem.Text = "開く";
             this.OpenToolStripMenuItem.Click += new System.EventHandler(this.OpenToolStripMenuItem_Click);
             // 
             // 終了ToolStripMenuItem
             // 
             this.終了ToolStripMenuItem.Name = "終了ToolStripMenuItem";
-            this.終了ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.終了ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.終了ToolStripMenuItem.Text = "終了";
-            this.終了ToolStripMenuItem.Click += new System.EventHandler(this.OpenToolStripMenuItem_Click);
+            this.終了ToolStripMenuItem.Click += new System.EventHandler(this.CloseToolStripMenuItem_Click);
             // 
             // MainForm
             // 
