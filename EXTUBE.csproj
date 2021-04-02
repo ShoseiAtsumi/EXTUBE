@@ -158,6 +158,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ExternalProgram\youtube-dl.exe" />
+    <Content Include="ExternalProgram\YoutubeApiApp.exe" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

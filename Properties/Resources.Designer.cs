@@ -79,5 +79,15 @@ namespace EXTUBE.Properties {
                 return ((byte[])(obj));
             }
         }
+        
+        /// <summary>
+        ///   型 System.Byte[] のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static byte[] YoutubeApiApp {
+            get {
+                object obj = ResourceManager.GetObject("YoutubeApiApp", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }

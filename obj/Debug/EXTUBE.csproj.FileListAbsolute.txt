@@ -15,3 +15,7 @@ C:\Users\0084a\source\repos\EXTUBE\EXTUBE\obj\Debug\EXTUBE.exe
 C:\Users\0084a\source\repos\EXTUBE\EXTUBE\obj\Debug\EXTUBE.pdb
 C:\Users\0084a\source\repos\EXTube\EXTUBE\bin\Debug\System.Data.SQLite.dll
 C:\Users\0084a\source\repos\EXTube\EXTUBE\bin\Debug\System.Data.SQLite.xml
+C:\Users\0084a\source\repos\EXTube\EXTUBE\bin\Debug\EXTUBE.exe.manifest
+C:\Users\0084a\source\repos\EXTube\EXTUBE\bin\Debug\EXTUBE.application
+C:\Users\0084a\source\repos\EXTube\EXTUBE\obj\Debug\EXTUBE.exe.manifest
+C:\Users\0084a\source\repos\EXTube\EXTUBE\obj\Debug\EXTUBE.application

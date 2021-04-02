@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EXTUBE.exe" size="8294368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EXTUBE.exe" size="14447072">
       <assemblyIdentity name="EXTUBE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7IQIpt0CYbtsGSI0FPrzM3EqLncAPkdFQ1sCqAbXtiY=</dsig:DigestValue>
+        <dsig:DigestValue>YeCIyk0irkOPC6XL1yFMNA0KKXiBdlOvASgbmrRYT0c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -101,6 +101,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="ExternalProgram\YoutubeApiApp.exe" size="6152259">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xNs3E5qXplFS/4Z2qwC7h9IXjo2y4cePLAyKWjHWimY=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="ExternalProgram\youtube-dl.exe" size="8152022">
     <hash>
       <dsig:Transforms>
